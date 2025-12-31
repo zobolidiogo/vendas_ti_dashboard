@@ -54,7 +54,7 @@ Decisões estratégicas:
 ## Arquivos do Projeto
 
 - dash_vendas_ti.pbix - Dashboard completo Power BI
-- vendas_ti_2025.csv - Base de dados (fictícia, fornecida pelo professor)
+- vendas_ti.csv - Base de dados (fictícia, fornecida pelo professor)
 
 ---
 
