@@ -58,6 +58,15 @@ Decisões estratégicas:
 
 ---
 
+## Como reproduzir o projeto
+
+1. Faça o download da base de dados original
+2. Abra o arquivo `dash_vendas_ti.pbix` no Power BI
+3. Caso necessário, abra o editor do Power Query
+4. Edite a primeira etapa de edição (Fonte) e selecione o caminho para a base baixada
+
+---
+
 ## Tecnologias Utilizadas
 
 - Power BI - Plataforma de visualização e análise
@@ -78,7 +87,9 @@ Decisões estratégicas:
 ## Contato
 
 Diogo Zoboli
+
 zobolidiogo@gmail.com
+
 LinkedIn: [linkedin.com/in/zobolidiogo](https://www.linkedin.com/in/zobolidiogo/)
 
 ---
